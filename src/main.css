@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: "myfirstfont";
-    src: url(../fonts/Exo2-Thin.otf) format("opentype");
+    src: url(fonts/Exo2-Thin.otf) format("opentype");
 }
 
 .header {
