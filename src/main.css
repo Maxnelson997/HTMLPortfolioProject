@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: "myfirstfont";
+    src: url(../fonts/Exo2-Thin.otf) format("opentype");
+}
+
+.header {
+	height: 250px;
+	width: 100%;
+	background: rgba(10, 10, 10, 0.5);
+}
+
+.header h1, h2 {
+	color: white;
+	font-family: "myfirstfont", "Helvetica", Times;
+}
+
+
+
+.header h1 {
+	font-size: 40pt;
+}
+
+.header h2 {
+	font-size: 30pt;
+}
